@@ -15,7 +15,7 @@ sidebar:
   - name: About
     link: /about.html
   - name: Research
-    link: /research.html
+    link: /research.md
   - name: Contact
     link: /contact.html
     
