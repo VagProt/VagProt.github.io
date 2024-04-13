@@ -1,5 +1,5 @@
 
-### Large image
+###
 
 ![profilephoto](https://github.com/VagProt/VagProt.github.io/blob/main/assets/img/profilephoto.png)
 
