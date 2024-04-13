@@ -122,11 +122,18 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-
+[Link to another page](./another-page.html)
 
 ### RESEARCH
 
-##### Publications:
+#### Publications:
+- journal (_italic_)
+  - On Strict Brambles, with Emmanouil Lardas, Dimitrios 
+M. Thilikos and Dimitris Zoros.
+Graphs and Combinatorics 39 (2), 24
+  - level 2 item
+
+
 
 *   On Strict Brambles, with Emmanouil Lardas, Dimitrios 
 M. Thilikos and Dimitris Zoros.
