@@ -128,12 +128,14 @@ The final element.
 
 #### Publications:
 - _journal_
-  - **On Strict Brambles**, with Emmanouil Lardas, Dimitrios 
+  - **On Strict Brambles**
+     with Emmanouil Lardas, Dimitrios 
 M. Thilikos and Dimitris Zoros.
 Graphs and Combinatorics 39 (2), 24
 - _conferences_
   - **Tree-Layout Based Graph Classes: Proper Chordal 
-Graphs**, with Christophe Paul.
+Graphs**
+ with Christophe Paul.
 41st International Symposium on Theoretical Aspects of 
 Computer Science (STACS 2024)
 
