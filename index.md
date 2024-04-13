@@ -21,16 +21,16 @@ Christophe Paul and Dimitrios M. Thilikos.
 Paul, Dimitrios M. Thilikos and Sebastian Wiederrecht 
 
 ### Talks:
-* **Erdős–Pósa Dualities for Minors**  ''
-Talk at the discrete math seminar at IBS in Daejeon, Korea
+* **Erdős–Pósa Dualities for Minors**
+  Talk at the discrete math seminar at IBS in Daejeon, Korea
 * **Tree-Layout Based Graph Classes: Proper Chordal 
-Graphs**  ''
-24e Journées Graphes et Algorithmes (JGA 2022) in Paris, 
+Graphs**
+  24e Journées Graphes et Algorithmes (JGA 2022) in Paris, 
 France
 * **Tree-Layout Based Graph Classes: Proper Chordal 
 Graphs**
-10th Workshop on Graph Classes, Optimization, and 
+  10th Workshop on Graph Classes, Optimization, and 
 Width Parameters (GROW 2022) in Koper, Slovenia
 * **On Strict Brambles**
-11th International Colloquium on Graph Theory and 
+  11th International Colloquium on Graph Theory and 
 Combinatorics (ICGT 2022) in Montpellier, France
