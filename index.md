@@ -22,12 +22,10 @@ Paul, Dimitrios M. Thilikos and Sebastian Wiederrecht
 
 ### Talks:
 * **Erdős–Pósa Dualities for Minors**
-
    Talk at the discrete math seminar at IBS in Daejeon, Korea
   
 * **Tree-Layout Based Graph Classes: Proper Chordal 
 Graphs**
-
   24e Journées Graphes et Algorithmes (JGA 2022) in Paris, 
 France
 
