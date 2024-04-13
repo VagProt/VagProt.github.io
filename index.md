@@ -1,5 +1,5 @@
 
-![ProfilePhoto](https://github.com/VagProt/VagProt.github.io/blob/main/assets/img/ProfilePhoto.jpg)
+![ProfilePhoto](https://github.com/VagProt/VagProt.github.io/blob/main/assets/img/ProphilePhoto.jpg)
 
 
 
