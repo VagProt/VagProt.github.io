@@ -3,7 +3,7 @@
 
 
 
-I am a last year Ph.D. student working on graph theory under the supervision of Christophe Paul and Dimitrios M. Thilikos.
+I am a last year Ph.D. student working on graph theory under the supervision of [Christophe Paul](https://www.lirmm.fr/~paul/) and [Dimitrios M. Thilikos](https://www.lirmm.fr/~thilikosto/).
 
 
 
