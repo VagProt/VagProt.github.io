@@ -126,7 +126,7 @@ The final element.
 
 ### RESEARCH
 
-### PUBLICATIONS:
+##### Publications:
 
 *   On Strict Brambles, with Emmanouil Lardas, Dimitrios 
 M. Thilikos and Dimitris Zoros.
