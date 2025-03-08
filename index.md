@@ -1,4 +1,4 @@
-![ProfilePhoto](./assets/img/ProphilePhoto.jpg)
+![ProfilePhoto](./assets/img/photo.jpg)
 
 > photo by Myrto
 
